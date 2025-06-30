@@ -1,6 +1,9 @@
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
 From: thinkguzman@yahoo.com
 To: mark.guzman@enron.com
 Subject: Your order has been shipped
+Date: Thu, 18 Jan 2001 20:17:00 -0800 (PST)
 
 Hello Mark,
 
@@ -20,7 +23,8 @@ Items in this shipment:
 
 "Mechanical Keyboard - White LED Backlit"
 
-You can track your package or view your order details at any time by visiting our web.
+You can track your package or view your order details at any time by visiting:
+https://www.amazon.com/gp/your-account/order-details?orderID=112-1234567-8901234
 
 Thanks again for choosing Amazon.
 

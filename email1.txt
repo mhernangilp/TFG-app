@@ -1,7 +1,10 @@
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
 From: "Amazon Security" <security-alert@amaz0n-support.com>
 To: jose@monkey.org
 Reply-to: careyecade@gmail.com
 Subject: [URGENT] Suspicious activity detected on your account
+Date: Sun, 02 Aug 2015 09:43:52 +0000 (UTC)
 
 Dear Customer,
 
